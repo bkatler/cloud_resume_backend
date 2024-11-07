@@ -29,8 +29,7 @@ This repository contains the backend components for the **Cloud Resume Challenge
 
 To run the tests, navigate to the project directory and use a test runner like `pytest`:
 
-```bash
-pytest tests/```
+```pytest tests/```
 
 ## Project Details
 
